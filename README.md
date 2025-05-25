@@ -1,2 +1,2 @@
-# Game of life
-This app realizes base mechanics of popular cells automat simulation named "Game of Life".
+# Игра "Жизнь"
+Проект разработан на языке C++11/14 с применением контейнеров STL <BR>и графической библиотеки SDL2.
