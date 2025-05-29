@@ -14,4 +14,4 @@ $(OBJ_DIR)/%.o: $(SRC_DIR)/%.cpp
 	$(CXX) $(FLAGS) -c $< -o $@
 
 clean:
-	rm -rf $(OBJ_DIR)/*.o main
+	rm -rf $(OBJ_DIR)/*.o build main
